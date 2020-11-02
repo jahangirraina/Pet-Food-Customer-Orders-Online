@@ -9,7 +9,7 @@ As a focus area, try to address the following questions:
 - Are there certain characteristics of the pets, customers or their orders that impact how likely they are to purchase the wet food, and keep ordering it?
 - Based on this data, what do you suggest we focus on to get more customers taking and continuing to enjoy our wet food?
 
-#Data Intro
+# Data Intro
 The data set is a selection of customers and their orders, with some pet characteristics and details of what they got in each order.
 
 Orders are numbered in sequence for each pet and every order contains dry food, which is the core offering of all online pet food companies. Some customers also purchase wet food (the subject of this challenge) alongside their dry food and in this dataset you also have the wet food order sequence. So if a customer has 2 dry food only orders followed by an order containing dry and wet food, then they will have a row in this dataset with petordernumber = 3, and wetfoodorder_number = 1.
